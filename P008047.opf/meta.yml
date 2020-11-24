@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159415
   title: སྐད་གསུམ་ཚིག་མཛོད་གསར་པ།（དབྱིན། བོད། རྒྱ།）
-  volume: ''
+  volume:
+    5fcfb2fa74e447ca9be62c28e8a5d4a3:
+      image_group_id: I4PD4150
+      title: Volume 1 of skad gsum tshig mdzod gsar pa/（dbyin/ bod/ rgya/）
+      volume_number: 1
+      total_pages: 1522
   author: ''
+ebook_metadata:
+  title: སྐད་གསུམ་ཚིག་མཛོད་གསར་པ།（དབྱིན། བོད། རྒྱ།）
+  author: ''
+  sku: P008047
+  cover: cover.jpg
+  layers:
+  - pagination
